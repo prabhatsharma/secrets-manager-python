@@ -1,4 +1,4 @@
-# Python (boto3) examples to access AWS services
+# Python (boto3) examples to access AWS secrets manager
 
 
 
